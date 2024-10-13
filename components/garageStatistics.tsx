@@ -3,7 +3,6 @@ import Counter from "@/components/animata/text/counter";
 export default function GarageStatistics() {
   return (
     <div id="ABOUTUS" className="relative bg-gray-900 text-white">
-      {/* Background image */}
       <div 
         className="absolute inset-0 bg-cover bg-center z-0"
         style={{
@@ -12,7 +11,6 @@ export default function GarageStatistics() {
         }}
       />
       
-      {/* Content */}
       <div className="relative z-10 max-w-7xl mx-auto px-4 py-16 sm:px-6 lg:px-8">
         <div className="text-center">
           <p className="text-sm font-semibold tracking-wide uppercase">// OUR GARAGE</p>
@@ -30,7 +28,6 @@ export default function GarageStatistics() {
             <div key={index} className="text-center">
               <Counter
                 direction="up"
-                // format={() => {}}
                 targetValue={stat.number}
               />
               <p className="mt-2 text-xl font-medium">{stat.label}</p>

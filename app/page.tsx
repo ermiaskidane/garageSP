@@ -130,8 +130,8 @@ export default function RemappingService() {
           regardless of the job size.
           </p>
           <p className="mb-8 font-bold">
-          Whether it's a simple bulb replacement or a complete engine overhaul, 
-          we're fully equipped to handle any mechanical repair with precision and care.
+          Whether it&apos;s a simple bulb replacement or a complete engine overhaul, 
+          we&apos;re fully equipped to handle any mechanical repair with precision and care.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             <div className="flex flex-col items-center text-center">
