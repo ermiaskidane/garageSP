@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import InfiniteSliderBasic from './infiniteSlide'
 export default function CarModal() {
 

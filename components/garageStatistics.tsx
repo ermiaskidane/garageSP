@@ -13,7 +13,7 @@ export default function GarageStatistics() {
       
       <div className="relative z-10 max-w-7xl mx-auto px-4 py-16 sm:px-6 lg:px-8">
         <div className="text-center">
-          <p className="text-sm font-semibold tracking-wide uppercase">// OUR GARAGE</p>
+          <p className="text-sm font-semibold tracking-wide uppercase"> OUR GARAGE</p>
           <h2 className="mt-1 text-4xl font-extrabold sm:text-5xl sm:tracking-tight lg:text-6xl">
             IN NUMBERS
           </h2>
