@@ -1,6 +1,6 @@
 "use client"
 
-import { useEffect, useRef, useState } from 'react'
+import { useEffect, useState } from 'react'
 import { ChevronLeft, ChevronRight } from 'lucide-react'
 import { Coffee, Sofa, Wifi } from 'lucide-react'
 import ServicesSection from '@/components/services'
