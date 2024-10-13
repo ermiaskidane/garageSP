@@ -33,7 +33,6 @@ export default function GarageStatistics() {
                 // format={() => {}}
                 targetValue={stat.number}
               />
-              {/* <p className="text-5xl font-extrabold">{}</p> */}
               <p className="mt-2 text-xl font-medium">{stat.label}</p>
             </div>
           ))}
