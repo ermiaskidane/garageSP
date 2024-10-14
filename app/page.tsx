@@ -111,7 +111,8 @@ export default function RemappingService() {
         <div className="w-full lg:w-1/2">
           <div className="aspect-w-16 h-full aspect-h-9 relative">
           <iframe 
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2484.5453690319307!2d-0.2203214316747949!3d51.48718692801315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760f3ee84ced85%3A0x57831dd7b6c971b9!2s12%20Bramber%20Rd%2C%20London%20W14%209PB%2C%20UK!5e0!3m2!1sen!2sus!4v1697145786750!5m2!1sen!2sus" 
+            // src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2484.5453690319307!2d-0.2203214316747949!3d51.48718692801315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760f3ee84ced85%3A0x57831dd7b6c971b9!2s12%20Bramber%20Rd%2C%20London%20W14%209PB%2C%20UK!5e0!3m2!1sen!2sus!4v1697145786750!5m2!1sen!2sus" 
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d302.65435108106954!2d-1.1501933114001004!3d52.637670675520965!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487760e8b825ce9b%3A0xbfdf3ea5469dd820!2s27%20Vernon%20St%2C%20Leicester%20LE3%205JQ!5e0!3m2!1sen!2suk!4v1728898650015!5m2!1sen!2suk"
             className="w-full h-full rounded-lg shadow-md"
             style={{border:0}} 
             allowFullScreen={true}

@@ -11,7 +11,7 @@ const Footer = () => {
         <div>
           <Image src="/placeholder.svg" alt="Car Garage Logo" width={150} height={50} className="mb-4" />
           <p className="text-sm">
-          At Car Garage LTD, we’ve cultivated a loyal customer base, with many returning for our services. A large part of our business comes from referrals, showcasing our commitment to excellent service.
+          At My Garage LTD, we’ve cultivated a loyal customer base, with many returning for our services. A large part of our business comes from referrals, showcasing our commitment to excellent service.
           </p>
           <div className="flex space-x-4 mt-4">
             <Facebook size={24} />
@@ -23,32 +23,31 @@ const Footer = () => {
         <div>
           <h3 className="text-lg font-bold mb-4">OPENING HOURS</h3>
           <ul className="space-y-2">
-            <li>Monday: 10am - 6pm</li>
-            <li>Tuesday: 10am - 6pm</li>
-            <li>Wednesday: 10am - 6pm</li>
-            <li>Thursday: 10am - 6pm</li>
-            <li>Friday: 10am - 6pm</li>
-            <li>Saturday: 10am - 2pm</li>
+            <li>Monday: 9am - 5pm</li>
+            <li>Tuesday: 9am - 5pm</li>
+            <li>Wednesday: 9am - 5pm</li>
+            <li>Thursday: 9am - 5pm</li>
+            <li>Friday: 9am - 5pm</li>
+            <li>Saturday: 9am - 2pm</li>
             <li>Sunday: closed</li>
           </ul>
         </div>
         <div>
           <h3 className="text-lg font-bold mb-4">CONTACT US</h3>
           <ul className="space-y-2">
-            <li>07960 747 121</li>
-            <li>07960 747 222</li>
-            <li>12 Bramber Road</li>
-            <li>West Kensington</li>
-            <li>W14 9PB, London</li>
-            <li>info@perfectcargarage.co.uk</li>
-            <li>office@perfectcargarage.co.uk</li>
+            <li>07453 242 622</li>
+            <li>07645 522 562</li>
+            <li>27 Vernon st</li>
+            <li>LE3 5JQ, Leicester</li>
+            <li>Garage@mycargarage.co.uk</li>
+            <li>Office@mycargarage.co.uk</li>
           </ul>
         </div>
       </div>
     </div>
     <div className="bg-[#13202f] text-center py-4 text-sm">
-      <p>© {format(new Date(), 'yyyy')} Car Garage LTD. All Rights Reserved.</p>
-      <p>Created with Garage Website Online</p>
+      <p>© {format(new Date(), 'yyyy')} My Garage LTD. All Rights Reserved.</p>
+      {/* <p>Created with Garage Website Online</p> */}
     </div>
   </footer>
   )

@@ -11,7 +11,7 @@ export function NavBar() {
       <div className="container mx-auto flex justify-between items-center py-4 px-6">
           <div className="flex items-center">
               <img src="https://placehold.co/40x40" alt="Car Garage logo with gear and wrench" className="mr-2" />
-              <span className="text-xl font-bold">CAR GARAGE</span>
+              <span className="text-xl font-bold">MY GARAGE</span>
           </div>
           <nav className="hidden md:flex space-x-6">
               <a href="#Home" className="hover:text-gray-300">HOME</a>
