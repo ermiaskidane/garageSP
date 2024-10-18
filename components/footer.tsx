@@ -28,17 +28,17 @@ const Footer = () => {
             <li>Wednesday: 9am - 5pm</li>
             <li>Thursday: 9am - 5pm</li>
             <li>Friday: 9am - 5pm</li>
-            <li>Saturday: 9am - 2pm</li>
-            <li>Sunday: closed</li>
+            <li>Saturday: 10am - 2pm</li>
+            <li>Sunday: 10am - 2pm</li>
           </ul>
         </div>
         <div>
           <h3 className="text-lg font-bold mb-4">CONTACT US</h3>
           <ul className="space-y-2">
-            <li>07453 242 622</li>
-            <li>07645 522 562</li>
-            <li>27 Vernon st</li>
-            <li>LE3 5JQ, Leicester</li>
+            <li>07437 108 498</li>
+            <li>07495 590 530</li>
+            <li>2 Littleton st</li>
+            <li>LE3 5GH, Leicester</li>
             <li>Garage@mycargarage.co.uk</li>
             <li>Office@mycargarage.co.uk</li>
           </ul>
